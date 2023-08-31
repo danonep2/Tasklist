@@ -17,20 +17,20 @@ Aplicativo de lista de tarefas feito com React Native e TypeScript.
 
 # Screenshots 📸
 <div display="inline" align="center">
-    <img src="./assets/screenshots/img01.png" width="45%">
-    <img src="./assets/screenshots/img02.png"  width="45%">
-    <img src="./assets/screenshots/img03.png"  width="45%">
-    <img src="./assets/screenshots/img04.png"  width="45%">
+    <img src="./assets/screenshots/img01.png" width="20%">
+    <img src="./assets/screenshots/img02.png"  width="20%">
+    <img src="./assets/screenshots/img03.png"  width="20%">
+    <img src="./assets/screenshots/img04.png"  width="20%">
 </div>
 
 # Screenshots Toast 📸
 
 <div display="inline" align="center">
-    <img src="./assets/screenshots/toast-img01.png" width="30%">
-    <img src="./assets/screenshots/toast-img02.png"  width="30%">
-    <img src="./assets/screenshots/toast-img03.png"  width="30%">
-    <img src="./assets/screenshots/toast-img04.png"  width="30%">
-    <img src="./assets/screenshots/toast-img05.png"  width="30%">
+    <img src="./assets/screenshots/toast-img01.png" width="18%">
+    <img src="./assets/screenshots/toast-img02.png"  width="18%">
+    <img src="./assets/screenshots/toast-img03.png"  width="18%">
+    <img src="./assets/screenshots/toast-img04.png"  width="18%">
+    <img src="./assets/screenshots/toast-img05.png"  width="18%">
 </div>
 
 # Links 🔗
